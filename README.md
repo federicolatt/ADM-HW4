@@ -43,6 +43,7 @@ Myriam Obialo
 ## **Repository Structure**
 - **`adm-hw4.ipynb`**: Main notebook with implementations for all the points
 - **`LICENSE`**: Project license.
+- **.gitignore**: File exclusion for Git
 - **`README.md`**: Documentation for the project.
 
 
