@@ -3,7 +3,12 @@
 
 Fourth homework of the "Algorithmic Methods of Data Mining" class (Sc.M. in Data Science).
 
-It consists of four main sections:
+"Understanding user preferences is essential for recommendation systems in the entertainment industry, especially in movies. The MovieLens dataset is a rich source of user behavior data, including movie ratings, that can help explore trends and preferences. Hashing and clustering techniques can be implemented to analyze and segment users to provide personalized recommendations."
+
+![image](https://github.com/user-attachments/assets/57a5917a-9d51-4c60-8797-e67804a317ae)
+
+
+Our work consists of four main sections:
 
 1. **Recommendation System with Locality-Sensitive Hashing (LSH)**  
    - Build a recommendation system using LSH to identify users with similar preferences based on the MovieLens dataset.
