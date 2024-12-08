@@ -1,6 +1,5 @@
 # ADM-HW4
 # Group 19
-
 Fourth homework of the "Algorithmic Methods of Data Mining" class (Sc.M. in Data Science).
 
 "Understanding user preferences is essential for recommendation systems in the entertainment industry, especially in movies. The MovieLens dataset is a rich source of user behavior data, including movie ratings, that can help explore trends and preferences. Hashing and clustering techniques can be implemented to analyze and segment users to provide personalized recommendations."
