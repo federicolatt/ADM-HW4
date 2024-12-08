@@ -25,11 +25,11 @@ It consists of four main sections:
 
 **Collaborators**
 
-Arian Gharehmohammadzadehghashghaei,
+Arian Gharehmohammadzadehghashghaei
 
-Federico Lattanzio,
+Federico Lattanzio
 
-Federico Trionfetti,
+Federico Trionfetti
 
 Myriam Obialo
 
