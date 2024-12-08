@@ -1,4 +1,5 @@
 # ADM-HW4
+# Group 19
 Fourth homework of the "Algorithmic Methods of Data Mining" class (Sc.M. in Data Science)
 It consists of four main sections:
 
@@ -23,9 +24,13 @@ It consists of four main sections:
    - Complexity: The time complexity is O(n^2)
 
 **Collaborators**
-Arian Gharehmohammadzadehghashghaei
+
+Arian Gharehmohammadzadehghashghaei,
+
 Federico Lattanzio,
+
 Federico Trionfetti,
+
 Myriam Obialo
 
 
