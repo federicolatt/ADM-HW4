@@ -31,7 +31,7 @@ Myriam Obialo
 
 ## **Repository Structure (TO-DO)**
 - **`folder/`**: folder description
-- **`main.ipynb`**: Main notebook with implementations for all the points
+- **`adm-hw4.ipynb`**: Main notebook with implementations for all the points
 - **`otherfile.ipynb`**: file description
 - **`LICENSE`**: Project license.
 - **`README.md`**: Documentation for the project.
